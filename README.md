@@ -1,4 +1,4 @@
-# AIML Crash Course - Gopal Sharma
+# AIML Crash Course - Govind 
 
 Welcome to my AIML Internship learning repository.
 
@@ -70,6 +70,6 @@ Each day contains its own README file with detailed explanations, objectives, ta
 
 ## Author
 
-**Gopal Sharma**
+**Govind**
 
 B.Tech Student | AIML Learner | Aspiring AI & Data Science Professional

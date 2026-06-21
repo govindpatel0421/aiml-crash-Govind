@@ -139,8 +139,8 @@ Through this project, I gained hands-on experience in:
 
 ## Author
 
-**Gopal Sharma**
+**Govind**
 
 AIML Internship Participant
 
-GitHub: https://github.com/gopalsharma43
+GitHub: https://github.com/govindpatel0421

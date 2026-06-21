@@ -107,7 +107,7 @@ Day12-Project/
 
 ## Author
 
-Gopal Sharma
+Govind
 
 AI/ML Internship Project
 CodeTrade Internship Program
